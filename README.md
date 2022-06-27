@@ -1,2 +1,2 @@
 # py-cn
-test cubernetsis and python
+test Kubernetes and python
